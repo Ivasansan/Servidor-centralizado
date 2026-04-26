@@ -1,0 +1,14 @@
+Name:Description:Path
+Tirant:Unidad organizativa principal del centro Tirant:DC=tirant,DC=mylocal
+ComiteAcceso:OU Departamento Comite de acceso:OU=Tirant,DC=tirant,DC=mylocal
+Usuarios:OU Usuarios - Comite de acceso:OU=ComiteAcceso,OU=Tirant,DC=tirant,DC=mylocal
+Equipos:OU Equipos - Comite de acceso:OU=ComiteAcceso,OU=Tirant,DC=tirant,DC=mylocal
+VisitasGuiadas:OU Departamento Visitas guiadas:OU=Tirant,DC=tirant,DC=mylocal
+Usuarios:OU Usuarios - Visitas guiadas:OU=VisitasGuiadas,OU=Tirant,DC=tirant,DC=mylocal
+Equipos:OU Equipos - Visitas guiadas:OU=VisitasGuiadas,OU=Tirant,DC=tirant,DC=mylocal
+ProcesosEvaluacion:OU Departamento Procesos de evaluacion:OU=Tirant,DC=tirant,DC=mylocal
+Usuarios:OU Usuarios - Procesos de evaluacion:OU=ProcesosEvaluacion,OU=Tirant,DC=tirant,DC=mylocal
+Equipos:OU Equipos - Procesos de evaluacion:OU=ProcesosEvaluacion,OU=Tirant,DC=tirant,DC=mylocal
+AdminSistemas:OU Departamento Administracion de sistemas:OU=Tirant,DC=tirant,DC=mylocal
+Usuarios:OU Usuarios - Administracion de sistemas:OU=AdminSistemas,OU=Tirant,DC=tirant,DC=mylocal
+Equipos:OU Equipos - Administracion de sistemas:OU=AdminSistemas,OU=Tirant,DC=tirant,DC=mylocal

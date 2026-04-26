@@ -1,0 +1,5 @@
+Name:Path:Description:Category:Scope
+GRP_ComiteAcceso:OU=Usuarios,OU=ComiteAcceso,OU=Tirant,DC=tirant,DC=mylocal:Grupo de seguridad Comite de acceso:Security:Global
+GRP_VisitasGuiadas:OU=Usuarios,OU=VisitasGuiadas,OU=Tirant,DC=tirant,DC=mylocal:Grupo de seguridad Visitas guiadas:Security:Global
+GRP_ProcEvaluacion:OU=Usuarios,OU=ProcesosEvaluacion,OU=Tirant,DC=tirant,DC=mylocal:Grupo de seguridad Procesos de evaluacion:Security:Global
+GRP_AdminSistemas:OU=Usuarios,OU=AdminSistemas,OU=Tirant,DC=tirant,DC=mylocal:Grupo de seguridad Administracion de sistemas:Security:Global
